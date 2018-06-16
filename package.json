@@ -1,6 +1,6 @@
 {
   "name": "react-native-fs",
-  "version": "2.10.14",
+  "version": "2.10.15-pre",
   "description": "Native filesystem access for react-native",
   "main": "FS.common.js",
   "scripts": {
